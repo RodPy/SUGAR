@@ -1,6 +1,5 @@
-#!bin/bash
+#!/bin/bash
 
-#Instalar Vim
-sudo apt-get update 
-sudo apt-get upgrade -y 
-sudo apt-get install vim -y
+echo "123" | sudo -S  apt-get update && 
+sudo -S apt-get upgrade -y && 
+sudo -S apt-get install vim -y 
