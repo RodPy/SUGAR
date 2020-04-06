@@ -52,13 +52,13 @@ Fases:
 - [ ] Generar nuevo Iso.<br/>
   - [ ] Crear script que genere el ISO - Clon del sistema actual..<br/>
     -[ ] isoBuil.sh .<br/>
-   _Nota: isoBuil.sh : Crea copia con [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager).<br/>  
+   _Nota: isoBuil.sh : Crea copia con [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager).<br/>_  
 
 - [ ] Quemar en Pendrive.<br/>
-  - [ ] .<br/>
+  - [ ] Crear script que genere el instalador.<br/>
 
 - [ ] Verificar.<br/>
-  - [ ] .<br/>
+  - [ ] Pruebas de control.<br/>
 
 **Última Actualización 6-Abril-2020** <br/>
 _Nota: Se mantiene por de pronto pass :123 del sistema para los script_
