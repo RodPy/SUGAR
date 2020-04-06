@@ -10,7 +10,7 @@ El proceso pensado en varios niveles:
 4. Generador del ISO.
 
 
-** Proceso:**
+** Proceso:  **
 
 - [ ] Descarga Automatica de ISO. <br/>
   - [ ] OPOP
