@@ -1,0 +1,20 @@
+FEDORA 20
+https://archive.fedoraproject.org/pub/archive/fedora/linux/releases/20/Images/armhfp/Fedora-Desktop-VFAT-armhfp-20-1-sda.raw.xz   
+
+
+apt-get install qemu-system-arm libguestfs-tools
+
+
+
+imagen de ubuntu 20.04
+http://cdimage.ubuntu.com/daily-live/current/focal-desktop-arm64.iso
+
+
+
+git clone git://git.qemu-project.org/qemu.git
+ Cloning into 'qemu'... done.
+~$ cd qemu
+~/qemu$ ./configure
+~/qemu$ make
+~/qemu$ sudo make install
+
