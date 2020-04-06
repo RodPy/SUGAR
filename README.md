@@ -49,9 +49,8 @@ Fases:
       - [ ] Sugar - Terceros.<br/>
       _Nota : flatpakAct.sh:  Instala las 20 actividades migradas en  [Flathub](https://flathub.org/apps/search/sugar) <br/>
 
-- [ ] Generar nuevo Iso.<br/>
-  - [ ] Crear script que genere el ISO - Clon del sistema actual..<br/>
-    -[ ] isoBuil.sh .<br/>
+- [x] Generar nuevo Iso.<br/>
+  - [x] Crear script que genere el ISO - Clon del sistema actual.<br/>
    _Nota: isoBuil.sh : Crea copia con [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager).<br/>_  
 
 - [ ] Quemar en Pendrive.<br/>
