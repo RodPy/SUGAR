@@ -12,10 +12,10 @@ Fases:
 
 ### Proceso: 
 
-- [ ] Descarga Automática de ISO. <br/>
-  - [ ] Crear script de la archivo descargue imagen de Ubuntu AMD . <br/>
-  - [ ] Crear script de la archivo descargue imagen de Ubuntu x86-64 . <br/>
-    _Notas: Se opta usar la Ubuntu 20.04._
+- [x] Descarga Automática de ISO. <br/>
+  - [x] Crear script de la archivo descargue imagen de Ubuntu AMD . <br/>
+  - [x] Crear script de la archivo descargue imagen de Ubuntu x86-64 . <br/>
+    _Notas: Se opta usar la Ubuntu 20.04. script -> isodw.sh_
   
 - [ ] Montar ISO.<br/>
   - [ ] Crear script que monte el iso descargado.<br/>
@@ -59,5 +59,5 @@ Fases:
 - [ ] Verificar.<br/>
   - [ ] Pruebas de control.<br/>
 
-**Última Actualización 6-Abril-2020** <br/>
+**Última Actualización 13-Abril-2020** <br/>
 _Nota: Se mantiene por de pronto pass :123 del sistema para los script_
